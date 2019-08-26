@@ -1,0 +1,59 @@
+.btn{
+   border:solid  1px transparent;
+   border-radius: 0.3em;
+   box-shadow: none;
+   padding-bottom: 1em;
+   opacity: 0.8;
+   text-transform: uppercase;
+}
+
+.btn.small{
+    font-size: 0.7em;
+}
+
+.btn.big{
+    font-size: 1.1em;
+}
+
+.btn.black{
+    background: #1A237E; 
+    color: white;
+}
+
+.btn.green{
+    background: #4CAF50; 
+    color: white;
+}
+
+.btn.sky{
+    background: #00BCD4; 
+    color: white;
+}
+
+.btn.purple{
+    background: #673AB7; 
+    color: white;
+}
+
+.btn.border{
+    background: transparent;
+    border-color: #1A237E;
+    color: #1A237E;
+}
+
+.btn.border.green{
+    border-color: #4CAF50;
+    color: #4CAF50;
+}
+
+.btn.border.sky{
+
+    border-color:#00BCD4;
+    color: #00BCD4;
+}
+
+.btn.border.purple{
+
+    border-color: #673AB7;
+    color: #673AB7;
+}
